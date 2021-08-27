@@ -1,3 +1,4 @@
+package Hash;
 import java.util.HashMap;
 
 class Solution {

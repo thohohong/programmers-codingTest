@@ -1,3 +1,4 @@
+package Hash;
 import java.util.*;
 
 // Score : 100 / 100
